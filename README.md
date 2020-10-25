@@ -1,6 +1,8 @@
 # CoronaVirus Daily Tracking Application         <img src="covid.png" width="200" height="100">
 
 ---------
+![Java](https://img.shields.io/badge/java-12-red)
+![Framework](https://img.shields.io/badge/spring-boot-green)
 
 This Application reports the number of Covid19 cases confirmed across the globe every day. **_Please be responsible wear your masks and stay safe_** :)
                                              

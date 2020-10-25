@@ -14,3 +14,9 @@ This Application reports the number of Covid19 cases confirmed across the globe 
 
 ![Alt Text](CovidTrackerApp.gif)
 
+**_Run The App_**
+
+1. Clone the repo: https://github.com/Oumaima-Boumlik/CoronaVirus-Daily-Tracker.git
+2. Open the folder in your favorite Editor
+3. Run the CoronavirusTrackerApplication( path: src/main/java/io/javabrains/coronavirustracker/CoronavirusTrackerApplication.java)
+4. Open your localhost browser and Enjoy ^^
